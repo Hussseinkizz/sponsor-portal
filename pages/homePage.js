@@ -1,8 +1,8 @@
-import { getRef, html, useEffect, useState } from 'z-js-framework';
-import { AboutView } from '../components/about-view';
-import { GalleryView } from '../components/gallery-view';
-import { ReportsView } from '../components/reports-view';
-import { LettersView } from '../components/lettters-view';
+import { getRef, html, useEffect, useState } from './../lib/z.js@v0.0.8.js';
+import { AboutView } from '../components/about-view.js';
+import { GalleryView } from '../components/gallery-view.js';
+import { ReportsView } from '../components/reports-view.js';
+import { LettersView } from '../components/lettters-view.js';
 
 const childInfo = {
   image: '/public/IMG_5646-scaled.jpg',

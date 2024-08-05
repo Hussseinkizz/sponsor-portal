@@ -1,4 +1,4 @@
-import { getRef, html, useEffect } from 'z-js-framework';
+import { getRef, html, useEffect } from './../lib/z.js@v0.0.8.js';
 
 export default function SignupPage() {
   const signup = html`<main

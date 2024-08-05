@@ -1,4 +1,4 @@
-import { html, useState } from 'z-js-framework';
+import { html, useState } from './../lib/z.js@v0.0.8.js';
 
 export default function LoginPage() {
   const [email, setEmail] = useState('');

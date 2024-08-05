@@ -1,13 +1,13 @@
 'use strict';
 
-import { render } from 'z-js-framework';
-import './lib/tailwindcss@v3.4.5';
-import Layout from './pages/layout';
-import HomePage from './pages/homePage';
-import UploadPage from './pages/uploadsPage';
-import AccountPage from './pages/accountPage';
-import LoginPage from './pages/login';
-import SignupPage from './pages/signup';
+import { render } from './lib/z.js@v0.0.8.js';
+import './lib/tailwindcss@v3.4.5.js';
+import Layout from './pages/layout.js';
+import HomePage from './pages/homePage.js';
+import UploadPage from './pages/uploadsPage.js';
+import AccountPage from './pages/accountPage.js';
+import LoginPage from './pages/login.js';
+import SignupPage from './pages/signup.js';
 
 const root = document.getElementById('root');
 

@@ -1,5 +1,5 @@
-import { html, getRef, useEffect, useRouter } from 'z-js-framework';
-import HomePage from './homePage';
+import { html, getRef, useEffect } from './../lib/z.js@v0.0.8.js';
+import HomePage from './homePage.js';
 
 const navItems = [
   {

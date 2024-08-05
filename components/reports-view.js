@@ -1,4 +1,4 @@
-import { html } from 'z-js-framework';
+import { html } from './../lib/z.js@v0.0.8.js';
 
 export const ReportsView = () => html`
   <div class="flex flex-col gap-2 mt-4">
