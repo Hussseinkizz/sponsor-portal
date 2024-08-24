@@ -37,13 +37,13 @@ const Reports = () => {
         id: "1",
         title: "Term 1 Report Card",
         description: "This report covers the academic performance for Term 1.",
-        file: "/src/assets/sample.pdf",
+        file: "./src/assets/sample.pdf",
       },
       {
         id: "2",
         title: "Term 2 Report Card",
         description: "This report covers the academic performance for Term 2.",
-        file: "/src/assets/sample.pdf",
+        file: "./src/assets/sample.pdf",
       },
     ];
     setReports(fetchedReports);

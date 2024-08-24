@@ -6,7 +6,7 @@ import { Link, useNavigate } from "react-router-dom";
 
 const initialChildData = [
   {
-    image: "/src/assets/IMG_5646-scaled.jpg",
+    image: "./src/assets/IMG_5646-scaled.jpg",
     name: "Byansi Eric",
     age: "6",
     level: "Top Class",
@@ -16,7 +16,7 @@ const initialChildData = [
     bio: "My name is Eric. I stay with my parents. I help at home by digging and fetching water and firewood. I am currently enrolled in nursery school at Omuto, and I want to be a doctor after studies.",
   },
   {
-    image: "/src/assets/IMG_5641-scaled.jpg",
+    image: "./src/assets/IMG_5641-scaled.jpg",
     name: "Ssenyonga Isma",
     age: "6",
     level: "Top Class",

@@ -15,7 +15,7 @@ interface ChildInfo {
 }
 
 const childInfo = {
-  image: "/src/assets/IMG_5646-scaled.jpg",
+  image: "./src/assets/IMG_5646-scaled.jpg",
   name: "Byansi Eric",
   age: "6",
   level: "Top Class",

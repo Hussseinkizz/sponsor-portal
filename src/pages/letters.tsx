@@ -45,14 +45,14 @@ const Letters = () => {
         id: "1",
         title: "Welcome Letter",
         description: "This letter welcomes you to our program.",
-        image: "/src/assets/sample-letter.jpeg",
+        image: "./src/assets/sample-letter.jpeg",
         date: "2024-01-15",
       },
       {
         id: "2",
         title: "Mid-Year Update",
         description: "An update on the progress made in the program.",
-        image: "/src/assets/sample-letter.jpeg",
+        image: "./src/assets/sample-letter.jpeg",
         date: "2024-06-10",
       },
     ];

@@ -37,14 +37,14 @@ const Photos = () => {
         id: "1",
         title: "Photo of Byansi at the Park",
         description: "Byansi enjoying a sunny day at the park.",
-        image: "/src/assets/IMG_5646-scaled.jpg",
+        image: "./src/assets/IMG_5646-scaled.jpg",
         date: "2024-01-15",
       },
       {
         id: "2",
         title: "Celebration Day",
         description: "A memorable celebration with friends.",
-        image: "/src/assets/IMG_5646-scaled.jpg",
+        image: "./src/assets/IMG_5646-scaled.jpg",
         date: "2024-06-10",
       },
     ];
